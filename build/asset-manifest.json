@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.03234182.chunk.js",
+    "main.js.map": "/static/js/main.03234182.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc844540.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc844540.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.5c08559f.chunk.js": "/static/js/2.5c08559f.chunk.js",
+    "static/js/2.5c08559f.chunk.js.map": "/static/js/2.5c08559f.chunk.js.map",
+    "static/js/3.f898cd52.chunk.js": "/static/js/3.f898cd52.chunk.js",
+    "static/js/3.f898cd52.chunk.js.map": "/static/js/3.f898cd52.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/js/2.5c08559f.chunk.js.LICENSE.txt": "/static/js/2.5c08559f.chunk.js.LICENSE.txt",
+    "static/media/Portada.a9d7d21f.jpg": "/static/media/Portada.a9d7d21f.jpg",
+    "static/media/Producto1.12787d26.png": "/static/media/Producto1.12787d26.png",
+    "static/media/Salsas2.f7ec8a61.jpg": "/static/media/Salsas2.f7ec8a61.jpg",
+    "static/media/Unicos.69d80c0e.jpg": "/static/media/Unicos.69d80c0e.jpg",
+    "static/media/salsa1.aacc67a3.png": "/static/media/salsa1.aacc67a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc844540.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.5c08559f.chunk.js",
+    "static/js/main.03234182.chunk.js"
+  ]
+}
